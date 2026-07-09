@@ -70,7 +70,7 @@ The **Dashboard** sheet pulls live from Monthly Summary and Financial Model to s
 
 ## Executive Dashboard
 
-![Executive Dashboard](screenshots/dashboard.png)
+![Executive Dashboard](dashboard.png)
 
 ## Key Results & Insights
 
